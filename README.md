@@ -1,8 +1,15 @@
-# Das Ötztaler Radmarathon Pacing Tool
+# Das Radmarathon Pacing Tool
 
-“Mit welcher Zeit kann ich beim Ötzi rechnen?”
+Dieses Repository ist ein Fork von [johannesh83 - Pacing_Oetztaler_Radmarathon](https://github.com/johannesh83/Pacing_Oetztaler_Radmarathon) und stellt eine Ergänzung um den Dreiländergiro dar.
 
-## Anwendungsempfehlungen
+Hier eine Auflistung der abgedeckten Radmarathons und Strecken:
+| Radmarathon          | Strecke         | Distanz | Höhenmeter | Datei                              |
+|----------------------|-----------------|---------|------------|------------------------------------|
+| Ötztaler Radmarathon | Standard        | 227 km  | 5500 hm    | Ötztaler Radmarathon - Pacing.xlsx |
+| Dreiländergiro       | Stelvio Engadin | 168 km  | 3300 hm    | Dreiländergiro - Pacing.xlsx       |
+
+
+## Anwendungsempfehlungen von johannesh83
 
 - Nur grau hinterlegte Felder dürfen geändert werden.
 - Die Schwellenleistung (FTP) entspricht der Leistung, die man über eine Stunde treten kann. Kennt man seine eigene Schwellenleistung nicht, dann sucht man sich am besten einen 30min langen Berg und fährt diesen so schnell es geht hinauf. Danach gibt man die durchschnittliche Geschwindigkeit, Größe, Gewicht etc. bei Kreuzotter ein und erhält eine Wattzahl, die in etwa der Schwellenleistung entspricht, sowie zusätzlich CdA und weitere Parameter, die auch im Ötzi Excel Sheet verwendet werden können.
@@ -11,8 +18,8 @@
 - Alle anderen Werte sollten selbsterklärend sein oder besser nicht angegriffen werden, falls man die Bedeutung eines Wertes nicht versteht.
 - Um schnell zu einem Ergebnis zu kommen, reicht es aus, FTP und Gewicht anzupassen und alle übrigen Felder zu belassen, wie sie sind.
 
-# Mehr Details
-[Ausführlicher Erfahrungsbericht mit Empfehlung hier.](https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/)
+# Mehr Details zum Pacing für den Ötztaler Radmarathon
+[Ausführlicher Erfahrungsbericht zum Ötztaler Radmarathon mit Empfehlung hier.](https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/)
 
 # Vergelt´s Gott!
 
