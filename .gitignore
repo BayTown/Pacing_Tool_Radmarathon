@@ -1,2 +1,5 @@
 #Ignore temp files
 ~$Dreiländergiro - Pacing.xlsx
+
+#Ignore ds store
+.DS_Store
