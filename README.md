@@ -1,6 +1,6 @@
 # Das Radmarathon Pacing Tool
 
-Dieses Repository ist ein Fork von [johannesh83 - Pacing_Oetztaler_Radmarathon](https://github.com/johannesh83/Pacing_Oetztaler_Radmarathon) und stellt eine Ergänzung um den Dreiländergiro dar.
+Dieses Repository ist ein Fork von [johannesh83 - Pacing_Oetztaler_Radmarathon](https://github.com/johannesh83/Pacing_Oetztaler_Radmarathon) und stellt eine Ergänzung um den Dreiländergiro dar. An dieser Stelle schon mal vielen Dank an johannesh83!
 
 Hier eine Auflistung der abgedeckten Radmarathons und Strecken:
 | Radmarathon          | Strecke         | Distanz | Höhenmeter | Datei                              |
@@ -29,7 +29,7 @@ Danke euch für jegliche Form der Weiterentwicklung und Verbesserung.
 
 Keine Garantie, keine Gewährleistung. Das Tool dient nur dem Pacing und rein für privaten und persönlichen Bedarf vorgesehen.
 
-Lizenz
--------
+# Lizenz
+
 [MIT](https://github.com/johannesh83/Pacing_Oetztaler_Radmarathon/blob/main/LICENSE) &copy; 2020 Johannes Heinrich
 
